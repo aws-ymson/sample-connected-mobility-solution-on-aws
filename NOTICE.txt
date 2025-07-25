@@ -3289,7 +3289,6 @@ blessed under the MIT license.
 boto3 under the Apache-2.0 license.
 boto3-stubs under the MIT license.
 botocore under the Apache-2.0 license.
-botocore-stubs under the MIT license.
 cffi under the MIT license.
 cfn-lint under the MIT license.
 chalice under the Apache-2.0 license.
@@ -3338,8 +3337,6 @@ ply under the 0BSD license.
 py-partiql-parser under the MIT license.
 pycln under the MIT license.
 pycparser under the 0BSD license.
-pydantic under the MIT license.
-pydantic_core under the MIT license.
 pylint under the GPL-2.0-or-later license.
 pyparsing under the MIT license.
 pytest under the MIT license.
@@ -3359,13 +3356,11 @@ syrupy under the Apache-2.0 license.
 toml under the MIT license.
 tomlkit under the MIT license.
 typer under the MIT license.
-types-awscrt under the MIT license.
 types-boto3 under the MIT license.
 types-python-dateutil under the Apache-2.0 license.
 types-requests under the Apache-2.0 license.
 types-s3transfer under the MIT license.
 types-setuptools under the Apache-2.0 license.
-types-toml under the Apache-2.0 license.
 Werkzeug under the 0BSD license.
 wheel under the MIT license.
 wrapt under the 0BSD license.
@@ -3427,11 +3422,9 @@ Cerberus under the ISC license.
 orderedmultidict under the Unlicense license.
 pep517 under the MIT license.
 pip-shims under the ISC license.
-pipenv-setup under the MIT license.
 pipfile under the Apache-2.0 license.
 plette under the ISC license.
 requirementslib under the MIT license.
-vistir under the ISC license.
 
 ********************
 OPEN SOURCE LICENSES
